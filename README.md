@@ -1,2 +1,1 @@
-# calculaor-sc
-# calculator-sync
+# Alice 바보
